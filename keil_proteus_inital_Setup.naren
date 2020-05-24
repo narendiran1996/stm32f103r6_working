@@ -1,0 +1,17 @@
+In Keil
+1) Add the three library files
+	-- stm32f10x.h
+	-- system_Stm32f10x.c
+	-- system_Stm32f10x.h
+2) Right click Target1 and Options
+	a)Output Tab
+		-- check Create HEX File
+	b)C/C++ Tab
+		-- Enter "STM32F10X_LD"
+
+In proteus
+1) rigth click STM32F103R6, click Hidden Pins
+	-- change VDDA to VDD
+	-- change VSSA to VSS
+2) add the path to hex file
+3) Change frequency to 8MHz

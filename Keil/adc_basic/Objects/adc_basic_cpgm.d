@@ -1,0 +1,9 @@
+.\objects\adc_basic_cpgm.o: adc_basic_cpgm.c
+.\objects\adc_basic_cpgm.o: stm32f10x.h
+.\objects\adc_basic_cpgm.o: D:\Keil_v5\ARM\CMSIS\Include\core_cm3.h
+.\objects\adc_basic_cpgm.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\adc_basic_cpgm.o: D:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\adc_basic_cpgm.o: D:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\adc_basic_cpgm.o: system_stm32f10x.h
+.\objects\adc_basic_cpgm.o: naren_gpio_func.h
+.\objects\adc_basic_cpgm.o: naren_lcd_func.h
